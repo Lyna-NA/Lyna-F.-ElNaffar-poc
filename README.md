@@ -26,9 +26,7 @@
    including Node.js, Express.js, React.js, MongoDB, MySQL, HTML, and CSS after completing a four-month rigorous MERN Stack training course.
  - Keen to Work in Full Stack Positions, Particularly those using
    MERN Technology.  
-  
 
-<br/>  
 
 ## Languages and Tools  
 <div align="center">  
