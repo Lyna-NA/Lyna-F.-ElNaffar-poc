@@ -1,12 +1,11 @@
-
 **Hello there..**
 
 ***I'm Lyna,*** 
 
- - I'm a new graduate eager to apply my knowledge to real-world
+ - A new graduate eager to apply my knowledge to real-world
    challenges.  
- - A graduate of IUG with a degree in computer engineering 
-   (the Islamic University of Gaza- Palestine).
+ - A graduate of IUG with a degree in computer engineering     (the
+   Islamic University of Gaza- Palestine).
  - Honors graduate working    as a teaching assistant at IUG under the
    guidance of the same    faculty.
  - Built multiple applications employing on-demand    technologies
